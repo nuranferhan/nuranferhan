@@ -1,4 +1,4 @@
-### Hey there! I'm using GitHub
+### 👋 Hello, I'm Ferhan!
 
 #### I code with
 
